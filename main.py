@@ -1,2 +1,2 @@
-print('hello python')
+print('hello python2')
 print('dev branch')
